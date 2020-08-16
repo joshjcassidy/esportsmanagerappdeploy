@@ -34,6 +34,8 @@ gem 'wicked'
 #Twitter feed
 gem 'twitter'
 
+gem 'nokogiri'
+
 #Sponsorability Score
 gem 'sponsorability', git: "https://github.com/joshjcassidy/sponsorability"
 
